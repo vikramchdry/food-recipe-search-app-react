@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+}
+
+.jumbtron{
+  background-color:#ff5e57;
+  color: white;
+  padding: 100px,0;
+  text-align: center;
+}
+
+.Fasticon{
+  font-size: 5rem;
+}
+
+.material-icons .MuiSvgIcon-root {
+  font-size: 4.5em !important;
+}
